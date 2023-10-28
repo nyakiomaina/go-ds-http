@@ -1,4 +1,4 @@
-module local/go-ds-http
+module github.com/nyakiomaina/go-ds-http
 
 go 1.20
 
